@@ -24,7 +24,7 @@ mkdir -p ~/.local/bin
 ln -sf ~/src/llama.cpp/build/bin/llama ~/.local/bin/llama 
 ```
 
-> 虽然 llama.cpp 安装可能更加简单，但是部分模型可能无法运行
+> 虽然 llama.app 安装可能更加简单，但是部分模型可能无法运行
 
 ## 使用
 
