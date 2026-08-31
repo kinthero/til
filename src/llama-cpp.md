@@ -29,6 +29,6 @@ ln -sf ~/src/llama.cpp/build/bin/llama ~/.local/bin/llama
 ## 使用
 
 ```bash
-llama
+llama serve -n 8192 -ngl 99 -c 32768 -np 1 -fa on
 ```
 
