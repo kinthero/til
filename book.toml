@@ -1,4 +1,7 @@
 [book]
-title = "til"
+title = "Kinther's TIL"
 authors = ["kinther"]
-language = "en"
+language = "zh"
+
+[output.html]
+mathjax-support = true
